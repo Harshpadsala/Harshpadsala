@@ -1,20 +1,20 @@
 # Harsh Padsala
 
 MS Data Science @ DePaul University  
-Machine Learning | NLP | Computer Vision | Data Science | Research  
+Machine Learning | NLP | Computer Vision | Data Science | Research | Systems
 
 ---
 
 ## About Me
-I am a graduate student in Data Science at DePaul University with experience in Machine Learning, Natural Language Processing, Computer Vision, and building end-to-end intelligent systems. I have worked on research projects, ML models, and full-stack systems during my AI internship and academic projects. I am particularly interested in applied machine learning and research-driven system development.
+I am a graduate student in Data Science at DePaul University with experience in Machine Learning, Natural Language Processing, Computer Vision, and building end-to-end intelligent systems. I have worked on research projects, ML models, and full-stack systems during my AI internship and academic projects. I am particularly interested in applied machine learning, NLP systems, and research-driven system development.
 
 ---
 
 ## Technical Skills
 **Languages:** Python, R, SQL, JavaScript  
-**Machine Learning:** Scikit-learn, PyTorch, TensorFlow, NLP, Computer Vision  
-**Data:** Pandas, NumPy, MongoDB, PostgreSQL  
-**Tools:** Git, Docker, Linux, LangChain  
+**Machine Learning:** Scikit-learn, PyTorch, TensorFlow, NLP, Computer Vision, BERT, RAG  
+**Data:** Pandas, NumPy, MongoDB, PostgreSQL, ChromaDB  
+**Tools:** Git, Docker, Linux, LangChain, Streamlit  
 **Web:** React, Node.js, Express  
 
 ---
@@ -24,8 +24,23 @@ I am a graduate student in Data Science at DePaul University with experience in 
 - Sentiment Analysis using BERT on Amazon Reviews
 - University ERP System (Full Stack)
 - Active Learning Research Project
-- PDF Analyzer using LLM + RAG
+- Resume Analyzer using LLM + RAG
 - Bowling Game Simulation System Design
+
+---
+
+## Achievements
+- Solved **850+ problems** across LeetCode, Codeforces, and GeeksforGeeks  
+- **Global Rank 1065 / 21,482** – LeetCode Weekly Contest  
+- **CodeChef 3★** Programmer  
+- **LeetCode Rating 1811**  
+
+---
+
+## Certifications
+- IBM Data Science Professional Certificate  
+- Google Foundations of Project Management  
+- Google Project Planning: Putting It All Together  
 
 ---
 
@@ -42,9 +57,10 @@ I am a graduate student in Data Science at DePaul University with experience in 
 - Machine Learning Research Projects
 - NLP Systems
 - ML System Design
-- Research at DePaul University
+- Research Projects at DePaul University
 
 ---
 
 ## Contact
 Email: harsh.padasala.work@gmail.com
+LinkedIn: (add link)
