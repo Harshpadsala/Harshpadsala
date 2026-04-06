@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Machine+Learning+%7C+NLP+%7C+Computer+Vision;Research+%7C+Systems+%7C+Applied+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=750&height=45&lines=Machine+Learning+%7C+NLP+%7C+Research+%7C+Applied+AI)](https://git.io/typing-svg)
 
 </div>
 
