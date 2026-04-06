@@ -64,12 +64,11 @@ I'm a graduate student in **Data Science at DePaul University** with hands-on ex
 
 | Project | Description | Stack |
 |---|---|---|
-| **Active Learning Research** | Hypothesis generation via hierarchical tree embeddings with Phi-3.5 + SciBERT | PyTorch · HuggingFace · NLP |
 | **SnapCircle** | Face recognition photo management app with ~97% accuracy | Computer Vision · Python |
 | **Amazon Review Sentiment** | BERT-based sentiment classifier achieving ~90% accuracy | PyTorch · Transformers · NLP |
 | **Resume Analyzer** | LLM + RAG pipeline for structured resume analysis | LangChain · ChromaDB · OpenAI |
-| **Journey University ERP** | Full-stack university management system | React · Express · MongoDB |
-| **Bowling Game Simulation** | System design with full PostgreSQL schema and game logic | PostgreSQL · Python |
+| **University ERP** | Full-stack university management system | React · Express · MongoDB |
+
 
 ---
 
